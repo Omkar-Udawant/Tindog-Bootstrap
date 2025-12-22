@@ -14,3 +14,13 @@ A responsive startup landing page built using **Bootstrap 5**.
 
 ## 👤 Author
 **Omkar Udawant**
+
+## 📸 Preview
+
+| Home | Features |
+|------|----------|
+| ![](screenshots/preview.png) | ![](screenshots/feature.png) |
+
+| Pricing | Footer |
+|--------|--------|
+| ![](screenshots/pricing.png) | ![](screenshots/footer.png) |
